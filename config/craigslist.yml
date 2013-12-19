@@ -1,0 +1,11 @@
+---
+dev:
+  :url: http://craigslist.com # dev environment link goes here
+  :sign_in_url: http://craigslist.com # sign in url goes here
+qa:
+  :url: http://www.lingvo.ru  # qa environment link
+  :sign_in_url: # sign in url goes here
+
+prod:
+  :url: http://sfbay.craigslist.org # dev environment link goes here
+  :sign_in_url: https://accounts.craigslist.org/ # sign in url goes here
